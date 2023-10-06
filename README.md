@@ -1,3 +1,2 @@
-# DOTFILES
-
-![urxvt](./screenshoot/1.png)
+# Dotfiles
+Personal dotfiles
